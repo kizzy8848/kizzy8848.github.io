@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I am a graduate student from George Washington University majoring in Computer Science.
